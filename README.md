@@ -1,3 +1,3 @@
-# Qiskit Lab files
+# Python projects and lab files
 
-Projects, created while Python programming language.
+Projects, created in Python.
